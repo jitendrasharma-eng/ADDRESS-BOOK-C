@@ -186,8 +186,3 @@ Possible improvements for this project include:
 
 Electronics & Embedded Systems Enthusiast
 
----
-
-## 📜 License
-
-This project is created for educational and learning purposes.
